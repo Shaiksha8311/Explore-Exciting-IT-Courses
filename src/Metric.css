@@ -1,0 +1,13 @@
+/* Metric.css */
+.metric {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .metric h2 {
+    margin-bottom: 10px;
+  }
+  
